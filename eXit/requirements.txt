@@ -1,0 +1,6 @@
+timg
+questionary
+huggingface-hub
+sentence-transformers
+opencv-python
+ffpyplayer
